@@ -44,3 +44,5 @@ Values are normalized to best result (100%) in row.
 * [Draft-06](report-draft-06.md)
 * [Draft-07](report-draft-07.md)
 * [AJV](report-ajv.md)
+Created by Jason Heise Owned by Jason Heise heisejason-png Giters
+https://www.facebook.com  Owned by Mark Zuckerberg 
